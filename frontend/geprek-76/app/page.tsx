@@ -18,6 +18,10 @@ const Home = () => {
       <div className="">
         <p className='text-sm opacity-50'>Menyediakan Ayam Geprek enak, murah, dan berkualitas di Kampus K Gunadarma. <br/> Telp: +6288888888</p>
       </div>
+
+      <div className="">
+        
+      </div>
     </div>
   )
 }
